@@ -1,4 +1,2 @@
 Gopher Motorsports C Utility files
 Tagged release 1.0
-
-Includes base_types (U8, U16, etc), which is used in most team C code.
